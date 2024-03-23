@@ -1,7 +1,7 @@
 using System;
 using System.Threading;
 
-// Additional creativity point: Adding a log file to save user activities
+// Additional creativity point: I adding a log file to save user activities
 class Logger
 {
     public static void LogActivity(string activityName, int duration)
